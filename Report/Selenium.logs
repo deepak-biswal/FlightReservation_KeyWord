@@ -1,0 +1,38 @@
+21:46:57,232  INFO flightReservation<strong>{1}</strong>:26 - Invoking Application Under Test : http://newtours.demoaut.com
+21:47:05,522  INFO flightReservation<strong>{1}</strong>:29 - Invoked Application Under Test : http://newtours.demoaut.com
+21:47:05,536  INFO flightReservation<strong>{1}</strong>:56 - Verifying Page Title : Welcome: Mercury Tours
+21:47:05,542  INFO flightReservation<strong>{1}</strong>:61 - Verified Page Title : Welcome: Mercury Tours
+21:47:05,553  INFO flightReservation<strong>{1}</strong>:39 - Entering 'mercury' in the 'UserName' edit field
+21:47:05,656  INFO flightReservation<strong>{1}</strong>:43 - Entered 'mercury' in the 'UserName' edit field
+21:47:05,658  INFO flightReservation<strong>{1}</strong>:39 - Entering 'mercury' in the 'Password' edit field
+21:47:05,756  INFO flightReservation<strong>{1}</strong>:43 - Entered 'mercury' in the 'Password' edit field
+21:47:05,759  INFO flightReservation<strong>{1}</strong>:32 - Clicking on 'Sign-In'
+21:47:11,735  INFO flightReservation<strong>{1}</strong>:36 - Clicked on 'Sign-In'
+21:47:11,741  INFO flightReservation<strong>{1}</strong>:66 - Verifying the presence of 'Oneway' on web page
+21:47:11,826  INFO flightReservation<strong>{1}</strong>:74 - Verified the presence of 'Oneway' on web page
+21:47:11,835  INFO flightReservation<strong>{1}</strong>:32 - Clicking on 'Oneway'
+21:47:11,896  INFO flightReservation<strong>{1}</strong>:36 - Clicked on 'Oneway'
+21:47:11,901  INFO flightReservation<strong>{1}</strong>:46 - Selecting 'Frankfurt' from the 'DepartureFrom' drop down
+21:47:12,019  INFO flightReservation<strong>{1}</strong>:51 - Selected 'Frankfurt' from the 'DepartureFrom' drop down
+21:47:12,026  INFO flightReservation<strong>{1}</strong>:46 - Selecting 'Paris' from the 'ArrivalTo' drop down
+21:47:12,131  INFO flightReservation<strong>{1}</strong>:51 - Selected 'Paris' from the 'ArrivalTo' drop down
+21:47:12,134  INFO flightReservation<strong>{1}</strong>:32 - Clicking on 'First'
+21:47:12,205  INFO flightReservation<strong>{1}</strong>:36 - Clicked on 'First'
+21:47:12,206  INFO flightReservation<strong>{1}</strong>:46 - Selecting 'Blue Skies Airlines' from the 'AirlinePreference' drop down
+21:47:12,307  INFO flightReservation<strong>{1}</strong>:51 - Selected 'Blue Skies Airlines' from the 'AirlinePreference' drop down
+21:47:12,309  INFO flightReservation<strong>{1}</strong>:32 - Clicking on 'CONTINUE1'
+21:47:13,670  INFO flightReservation<strong>{1}</strong>:36 - Clicked on 'CONTINUE1'
+21:47:13,672  INFO flightReservation<strong>{1}</strong>:66 - Verifying the presence of 'CONTINUE2' on web page
+21:47:13,731  INFO flightReservation<strong>{1}</strong>:74 - Verified the presence of 'CONTINUE2' on web page
+21:47:13,733  INFO flightReservation<strong>{1}</strong>:32 - Clicking on 'CONTINUE2'
+21:47:16,218  INFO flightReservation<strong>{1}</strong>:36 - Clicked on 'CONTINUE2'
+21:47:16,253  INFO flightReservation<strong>{1}</strong>:39 - Entering 'Rajendra' in the 'FirstName' edit field
+21:47:16,404  INFO flightReservation<strong>{1}</strong>:43 - Entered 'Rajendra' in the 'FirstName' edit field
+21:47:16,406  INFO flightReservation<strong>{1}</strong>:39 - Entering 'Mahapatra' in the 'LastName' edit field
+21:47:16,534  INFO flightReservation<strong>{1}</strong>:43 - Entered 'Mahapatra' in the 'LastName' edit field
+21:47:16,535  INFO flightReservation<strong>{1}</strong>:39 - Entering '632147216475' in the 'CreditCard' edit field
+21:47:16,859  INFO flightReservation<strong>{1}</strong>:43 - Entered '632147216475' in the 'CreditCard' edit field
+21:47:16,868  INFO flightReservation<strong>{1}</strong>:32 - Clicking on 'SECUREPURCHASE'
+21:47:18,861  INFO flightReservation<strong>{1}</strong>:36 - Clicked on 'SECUREPURCHASE'
+21:47:18,864  INFO flightReservation<strong>{1}</strong>:66 - Verifying the presence of 'ConfirmationText' on web page
+21:47:18,932  INFO flightReservation<strong>{1}</strong>:74 - Verified the presence of 'ConfirmationText' on web page

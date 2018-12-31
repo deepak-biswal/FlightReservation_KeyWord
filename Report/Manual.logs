@@ -1,0 +1,38 @@
+30/12/2018 21:46:57 flightReservation Invoking Application Under Test : http://newtours.demoaut.com
+30/12/2018 21:47:05 flightReservation Invoked Application Under Test : http://newtours.demoaut.com
+30/12/2018 21:47:05 flightReservation Verifying Page Title : Welcome: Mercury Tours
+30/12/2018 21:47:05 flightReservation Verified Page Title : Welcome: Mercury Tours
+30/12/2018 21:47:05 flightReservation Entering 'mercury' in the 'UserName' edit field
+30/12/2018 21:47:05 flightReservation Entered 'mercury' in the 'UserName' edit field
+30/12/2018 21:47:05 flightReservation Entering 'mercury' in the 'Password' edit field
+30/12/2018 21:47:05 flightReservation Entered 'mercury' in the 'Password' edit field
+30/12/2018 21:47:05 flightReservation Clicking on 'Sign-In'
+30/12/2018 21:47:11 flightReservation Clicked on 'Sign-In'
+30/12/2018 21:47:11 flightReservation Verifying the presence of 'Oneway' on web page
+30/12/2018 21:47:11 flightReservation Verified the presence of 'Oneway' on web page
+30/12/2018 21:47:11 flightReservation Clicking on 'Oneway'
+30/12/2018 21:47:11 flightReservation Clicked on 'Oneway'
+30/12/2018 21:47:11 flightReservation Selecting 'Frankfurt' from the 'DepartureFrom' drop down
+30/12/2018 21:47:12 flightReservation Selected 'Frankfurt' from the 'DepartureFrom' drop down
+30/12/2018 21:47:12 flightReservation Selecting 'Paris' from the 'ArrivalTo' drop down
+30/12/2018 21:47:12 flightReservation Selected 'Paris' from the 'ArrivalTo' drop down
+30/12/2018 21:47:12 flightReservation Clicking on 'First'
+30/12/2018 21:47:12 flightReservation Clicked on 'First'
+30/12/2018 21:47:12 flightReservation Selecting 'Blue Skies Airlines' from the 'AirlinePreference' drop down
+30/12/2018 21:47:12 flightReservation Selected 'Blue Skies Airlines' from the 'AirlinePreference' drop down
+30/12/2018 21:47:12 flightReservation Clicking on 'CONTINUE1'
+30/12/2018 21:47:13 flightReservation Clicked on 'CONTINUE1'
+30/12/2018 21:47:13 flightReservation Verifying the presence of 'CONTINUE2' on web page
+30/12/2018 21:47:13 flightReservation Verified the presence of 'CONTINUE2' on web page
+30/12/2018 21:47:13 flightReservation Clicking on 'CONTINUE2'
+30/12/2018 21:47:16 flightReservation Clicked on 'CONTINUE2'
+30/12/2018 21:47:16 flightReservation Entering 'Rajendra' in the 'FirstName' edit field
+30/12/2018 21:47:16 flightReservation Entered 'Rajendra' in the 'FirstName' edit field
+30/12/2018 21:47:16 flightReservation Entering 'Mahapatra' in the 'LastName' edit field
+30/12/2018 21:47:16 flightReservation Entered 'Mahapatra' in the 'LastName' edit field
+30/12/2018 21:47:16 flightReservation Entering '632147216475' in the 'CreditCard' edit field
+30/12/2018 21:47:16 flightReservation Entered '632147216475' in the 'CreditCard' edit field
+30/12/2018 21:47:16 flightReservation Clicking on 'SECUREPURCHASE'
+30/12/2018 21:47:18 flightReservation Clicked on 'SECUREPURCHASE'
+30/12/2018 21:47:18 flightReservation Verifying the presence of 'ConfirmationText' on web page
+30/12/2018 21:47:18 flightReservation Verified the presence of 'ConfirmationText' on web page

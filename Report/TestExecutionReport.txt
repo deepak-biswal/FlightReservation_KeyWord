@@ -1,0 +1,38 @@
+Project Name : Flight Reservation(KeyWord)
+Browser : chrome
+Java Version : 1.8.0_191
+OS : Windows 10
+User : DK
+Host Name : DESKTOP-2TMQMFN
+**************************************************
+===================================================================
+New TestCase : Launch Flight Reservation Application by using Valid URL
+===================================================================
+GOTOURL---------http://newtours.demoaut.com---Pass
+VERIFYTITLE---------Welcome: Mercury Tours---Pass
+===================================================================
+New TestCase : Login To Flight Reservation Application With Valid Credentials
+===================================================================
+SET---NAME---UserName---mercury---Pass
+SET---NAME---Password---mercury---Pass
+CLICK---NAME---Sign-In------Pass
+VERIFYELEMENTPRESENT---XPATH---Oneway------Pass
+===================================================================
+New TestCase : Verify that a valid user can reserve a flight after entering valid flight details
+===================================================================
+CLICK---XPATH---Oneway------Pass
+SELECT---NAME---DepartureFrom---Frankfurt---Pass
+SELECT---NAME---ArrivalTo---Paris---Pass
+CLICK---XPATH---First------Pass
+SELECT---NAME---AirlinePreference---Blue Skies Airlines---Pass
+CLICK---NAME---CONTINUE1------Pass
+VERIFYELEMENTPRESENT---NAME---CONTINUE2------Pass
+CLICK---NAME---CONTINUE2------Pass
+===================================================================
+New TestCase : Verify that a valid user can book a ticket after entering valid passenger details
+===================================================================
+SET---NAME---FirstName---Rajendra---Pass
+SET---NAME---LastName---Mahapatra---Pass
+SET---NAME---CreditCard---632147216475---Pass
+CLICK---NAME---SECUREPURCHASE------Pass
+VERIFYELEMENTPRESENT---XPATH---ConfirmationText------Pass
